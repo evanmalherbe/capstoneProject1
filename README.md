@@ -1,0 +1,1 @@
+This is my Capstone Project 1 to utilise my new HTML and CSS coding knowledge. It's an online store.
